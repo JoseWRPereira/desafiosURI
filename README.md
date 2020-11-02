@@ -21,8 +21,10 @@ Resolução de desafios da plataforma [ *URI Online Judge* ](https://www.urionli
 |[1015](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)|[Distância Entre Dois Pontos]()|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1015-distanciaEntreDoisPontos.py)| Sequencial |
 |[1016](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)|[Distância]()|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1016-distancia.py)| Sequencial |
 |[1017](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)|[Gasto de Combustível]()|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1017-gastoDeCombustivel.py)| Sequencial |
-|[1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)|[Cédulas]()|[](), []()| Sequencial |
-|[1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)|[Conversão de Tempo]()|[](), []()| Sequencial |
-|[1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)|[Idade em Dias]()|[](), []()| Sequencial |
+|[1018](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)|[Cédulas]()|[Python](), []()| Sequencial |
+|[1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)|[Conversão de Tempo]()|[Python](), []()| Sequencial |
+|[1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)|[Idade em Dias]()|[Python](), []()| Sequencial |
 |[1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)|[Notas e Moedas]()|[C](https://github.com/JoseWRPereira/desafiosURI/blob/master/1021-notasMoedas.c)| Sequencial |
+|[1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)|[Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1035-testeSelecao1.py)| Seleção |
+|[1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)|[Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1036-formulaBhaskara.py)| Seleção |
 
