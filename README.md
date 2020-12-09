@@ -28,4 +28,5 @@ Resolução de desafios da plataforma [ *URI Online Judge* ](https://www.urionli
 |[1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)|[Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1035-testeSelecao1.py)| Seleção |
 |[1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)|[Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1036-formulaBhaskara.py)| Seleção |
 |[1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)|[Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1037-intervalo.py)| Seleção |
+|[1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)|[Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)|[Python](https://github.com/JoseWRPereira/desafiosURI/blob/master/1038-lanche.py)| Seleção |
 
